@@ -1,17 +1,19 @@
 
 <img width="2250" height="1125" alt="Front-end-JavaScript_entendendo promises e async_await" src="https://github.com/user-attachments/assets/7a974a27-0929-4784-a4e3-121c3eac0d18" />
 
-# JavaScript: entedendo promises e async/await
+# JavaScript: entedendo Promises e async/await
 
 Construção da página CodeConnect e das suas funcionalidades, parte da formação 'Desenvolvimento Front-End: cursos para aplicações web com HTML, CSS e JavaScript' da Alura.
 
 ## 🔨 Funcionalidades do projeto
 
-... em construção ...
+Página de publicações da CodeConnect, com funcionalidades baseadas em código JavaScript assíncrono, com:
+- upload de fotos e texto
+- criação de tags
+- botões 'Carregar imagem', 'Publicar' e 'Descartar'
+- simulação de envio dos dados para um Banco de Dados
 
 ## ✔️ Técnicas e tecnologias utilizadas
-
-As técnicas e tecnologias utilizadas pra isso são:
 
 As técnicas e tecnologias utilizadas pra isso são:
 
