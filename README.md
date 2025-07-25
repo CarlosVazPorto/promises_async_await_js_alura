@@ -28,4 +28,4 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode visitar o resultado do projeto [aqui].
+Você pode visitar o resultado do projeto [aqui](https://carlosvazporto.github.io/promises_async_await_js_alura/).
